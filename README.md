@@ -6,6 +6,7 @@ N.B. : gli esercizi sono sia del [libro](http://www.andreamarino.it/python/think
 
 Questo repo ha lo scopo (per il momento) di essere un contenitore degli esercizi svolti.
 
+
 🇬🇧
 Python exercises completed during the Programming and Data Analysis course.  
 
